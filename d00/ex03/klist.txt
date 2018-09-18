@@ -1,0 +1,5 @@
+Credentials cache: API:D65F4AA0-50BC-49D4-ACBB-73CDD1C6E626
+        Principal: nmarinel@42.FR
+
+  Issued                Expires               Principal
+Aug 30 12:19:11 2018  Sep  6 12:19:03 2018  krbtgt/42.FR@42.FR

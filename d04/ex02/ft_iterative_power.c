@@ -6,7 +6,7 @@
 /*   By: nmarinel <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/09/15 20:51:07 by nmarinel          #+#    #+#             */
-/*   Updated: 2018/09/19 00:42:09 by nmarinel         ###   ########.fr       */
+/*   Updated: 2018/09/19 20:28:53 by nmarinel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ int	ft_iterative_power(int nb, int power)
 
 	y = nb;
 	x = 1;
-	if (nb < 0)
+	if (power < 0)
 		return (0);
 	if (power == 0)
 		return (1);
